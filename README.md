@@ -5,3 +5,7 @@ Hemos realizados todos los cambios y la web está casi finalizada, se suben al r
 Faltan añadir comentarios y perfeccionar algunos detalles.
 
 Se realizan los ajustes finales y subimos la tarea terminada al repositorio.
+
+Indicamos la dirección de Github donde se encuentra el repositorio y subimos cambios, había faltado este paso.
+
+git@github.com:osc00/tarea05.git
